@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-store-learn/static/css/main.92749558.css",
-    "main.js": "/react-store-learn/static/js/main.68f00463.js",
+    "main.js": "/react-store-learn/static/js/main.8fbe5258.js",
     "static/js/787.884e199e.chunk.js": "/react-store-learn/static/js/787.884e199e.chunk.js",
     "static/media/Inter-Bold.ttf": "/react-store-learn/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-Medium.ttf": "/react-store-learn/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
@@ -15,11 +15,11 @@
     "static/media/location.svg": "/react-store-learn/static/media/location.cfc99e24a70564beec5a5f2f42c7f90b.svg",
     "index.html": "/react-store-learn/index.html",
     "main.92749558.css.map": "/react-store-learn/static/css/main.92749558.css.map",
-    "main.68f00463.js.map": "/react-store-learn/static/js/main.68f00463.js.map",
+    "main.8fbe5258.js.map": "/react-store-learn/static/js/main.8fbe5258.js.map",
     "787.884e199e.chunk.js.map": "/react-store-learn/static/js/787.884e199e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92749558.css",
-    "static/js/main.68f00463.js"
+    "static/js/main.8fbe5258.js"
   ]
 }
