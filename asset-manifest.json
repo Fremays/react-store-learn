@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-store-learn/static/css/main.92749558.css",
+    "main.js": "/react-store-learn/static/js/main.68f00463.js",
+    "static/js/787.884e199e.chunk.js": "/react-store-learn/static/js/787.884e199e.chunk.js",
+    "static/media/Inter-Bold.ttf": "/react-store-learn/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-Medium.ttf": "/react-store-learn/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Inter-Light.ttf": "/react-store-learn/static/media/Inter-Light.eec8664621fec98efb37.ttf",
+    "static/media/Inter-Regular.ttf": "/react-store-learn/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/women.png": "/react-store-learn/static/media/women.94fcdfa2a3c347a33887.png",
+    "static/media/logo.svg": "/react-store-learn/static/media/logo.ec1e0b22659f3de6c5a5199ff3cb4c8c.svg",
+    "static/media/volume.svg": "/react-store-learn/static/media/volume.2afe837405bdf8b875f860bd15eef9da.svg",
+    "static/media/mail.svg": "/react-store-learn/static/media/mail.23b9b509b5ce8534febd4d83a304b0d5.svg",
+    "static/media/mass.svg": "/react-store-learn/static/media/mass.91fcf5dc152c14622c9dbbc3b7d1077b.svg",
+    "static/media/location.svg": "/react-store-learn/static/media/location.cfc99e24a70564beec5a5f2f42c7f90b.svg",
+    "index.html": "/react-store-learn/index.html",
+    "main.92749558.css.map": "/react-store-learn/static/css/main.92749558.css.map",
+    "main.68f00463.js.map": "/react-store-learn/static/js/main.68f00463.js.map",
+    "787.884e199e.chunk.js.map": "/react-store-learn/static/js/787.884e199e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92749558.css",
+    "static/js/main.68f00463.js"
+  ]
+}
