@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-store-learn/static/css/main.92749558.css",
-    "main.js": "/react-store-learn/static/js/main.312b3267.js",
+    "main.css": "/react-store-learn/static/css/main.e49295be.css",
+    "main.js": "/react-store-learn/static/js/main.4eaa8407.js",
     "static/js/787.884e199e.chunk.js": "/react-store-learn/static/js/787.884e199e.chunk.js",
     "static/media/Inter-Bold.ttf": "/react-store-learn/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-Medium.ttf": "/react-store-learn/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
@@ -14,12 +14,12 @@
     "static/media/mass.svg": "/react-store-learn/static/media/mass.91fcf5dc152c14622c9dbbc3b7d1077b.svg",
     "static/media/location.svg": "/react-store-learn/static/media/location.cfc99e24a70564beec5a5f2f42c7f90b.svg",
     "index.html": "/react-store-learn/index.html",
-    "main.92749558.css.map": "/react-store-learn/static/css/main.92749558.css.map",
-    "main.312b3267.js.map": "/react-store-learn/static/js/main.312b3267.js.map",
+    "main.e49295be.css.map": "/react-store-learn/static/css/main.e49295be.css.map",
+    "main.4eaa8407.js.map": "/react-store-learn/static/js/main.4eaa8407.js.map",
     "787.884e199e.chunk.js.map": "/react-store-learn/static/js/787.884e199e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92749558.css",
-    "static/js/main.312b3267.js"
+    "static/css/main.e49295be.css",
+    "static/js/main.4eaa8407.js"
   ]
 }
