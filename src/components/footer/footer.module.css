@@ -1,0 +1,407 @@
+.footer {
+    background-color: #3F4E65;
+    color: white;
+    padding-top: 71px;
+    padding-bottom: 116px;
+}
+
+.container {
+    margin: 0 14.25%;
+    display: flex;
+    text-align: left;
+}
+
+.categorizes ul, .menu ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding-left: 0;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.categorizes p, .menu p {
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 25px;
+    margin-top: 0;
+}
+
+.categorizes li, .menu li {
+    padding-bottom: 20px;
+}
+
+.categorizes a, .menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.company {
+    max-width: 320px;
+}
+
+.menu {
+    max-width: 130px;
+    margin-left: 59px;
+}
+
+.company__about {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.company__subscribe {
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 43px;
+    margin-bottom: 14px;
+}
+
+.company__mail {
+    height: 59px;
+}
+
+.company__mail input {
+    border-width: 0;
+    width: 252px;
+    height: 33px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 13px 10px 13px 20px;
+    gap: 10px;
+    background: #FFFFFF;
+    border-radius: 36px;
+    color: rgba(92, 99, 112, 0.6);
+}
+
+.company__mail a {
+    position: relative;
+    padding: 12px 19px;
+    display: inline-block;
+    background: #FFC85E;
+    border-radius: 1000px;
+    top: -54px;
+    left: 230px;
+}
+
+.categorizes {
+    max-width: 170px;
+    margin-left: 95px;
+}
+
+.price_list {
+    max-width: 215px;
+    margin-left: 95px;
+}
+
+.price_list p {
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+.price_list img {
+    width: 39px;
+}
+
+.price_list__link {
+    width: 176px;
+    height: 39px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 19px;
+    gap: 12px;
+    background: #FFC85E;
+    border-radius: 79px;
+    font-weight: 700;
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+}
+
+.price_list span {
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.price_list a:last-child {
+    margin-left: 10px;
+}
+
+.contacts {
+    max-width: 152px;
+    margin-left: 95px;
+}
+
+.contacts__title {
+    font-weight: 600;
+    font-size: 20px;
+
+    margin: 0 0 0 0%;
+}
+
+.contacts__number {
+    font-weight: 600;
+    font-size: 14px;
+    margin: 25px 0 0;
+}
+
+.contacts__time {
+    font-weight: 300;
+    font-size: 12px;
+    margin: 5px 0 0;
+}
+
+.contacts a {
+    color: white;
+    font-weight: 400;
+    font-size: 10px;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}
+
+.contacts__mail {
+    font-weight: 300;
+    font-size: 12px;
+    margin: 25px 0;
+}
+
+.contacts__mail b {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.contacts img {
+    width: 61px;
+    height: 39px;
+}
+
+.contacts img:last-child {
+    margin-left: 5px;
+}
+
+@media (max-width: 1280px) {
+    .container {
+        margin: 14px 6%;
+        display: flex;
+    }
+
+    .footer {
+        background-color: #3F4E65;
+        color: white;
+        padding-top: 25px;
+        padding-bottom: 40px;
+    }
+
+    .menu {
+        max-width: 130px;
+        margin-left: 25px;
+    }
+
+    .categorizes {
+        max-width: 170px;
+        margin-left: 35px;
+    }
+
+    .price_list {
+        max-width: 215px;
+        margin-left: 35px;
+    }
+
+    .contacts {
+        max-width: 152px;
+        margin-left: 35px;
+    }
+
+    .price_list__link {
+        width: 93px;
+    }
+
+    .company__mail input {
+        width: 170px;
+    }
+
+    .company__mail a {
+        top: -50px;
+        left: 150px;
+    }
+}
+
+@media screen and (max-width: 959px) {
+    .footer {
+        display: block;
+        /*margin-top: 15px;*/
+        padding-top: 15px;
+
+    }
+
+    .company_mobile {
+
+    }
+
+    .company_mobile_title {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .company_mobile__link {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 19px;
+        gap: 5px;
+        background: #FFC85E;
+        border-radius: 79px;
+        color: white;
+        text-decoration: none;
+    }
+
+    .company_mobile__about {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        color: #FFFFFF;
+        text-align: left;
+        margin: 0 15px;
+    }
+
+    .company_mobile__subscribe {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+        color: #FFFFFF;
+        margin-top: 15px;
+        margin-left: 15px;
+        text-align: left;
+
+    }
+
+    .company_mobile__mail input {
+        border: none;
+    }
+
+    .company_mobile__mail input:focus {
+        outline: none
+    }
+
+    .company_mobile__mail {
+        margin: 0 15px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 6px 10px 6px 20px;
+        gap: 10px;
+        background: #FFFFFF;
+        border-radius: 36px;
+    }
+    .menu_mobile{
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        color: #FFFFFF;
+        margin-bottom: 20px;
+    }
+    .menu_mobile p{
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 150%;
+        color: #FFFFFF;
+    }
+    .menu_mobile ul{
+        list-style-type: none;
+        gap: 20px;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        margin: 0;
+    }
+    .menu_mobile a{
+        text-decoration: none;
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .contacts__title{
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 150%;
+        color: #FFFFFF;
+        text-align: left;
+    }
+
+    .contacts_mobile{
+        margin-left: 15px;
+    }
+    .contacts_mobile_bottom{
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+    }
+    .contacts__title{
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 150%;
+        color: #FFFFFF;
+        margin-bottom: 25px;
+    }
+    .contacts_mobile___number{
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 150%;
+        color: #FFFFFF;
+        margin-top: 0;
+    }
+    .contacts_mobile___time{
+        font-weight: 300;
+        font-size: 12px;
+        color: #FFFFFF;
+        margin-bottom: 5px;
+    }
+    .contacts_mobile_contacts a{
+        font-weight: 400;
+        font-size: 10px;
+        text-decoration-line: underline;
+        color: #FFFFFF;
+        margin-bottom: 25px;
+    }
+    .contacts_mobile___mail{
+        font-weight: 300;
+        font-size: 12px;
+        color: #FFFFFF;
+    }
+    .contacts_mobile___mail b{
+        font-weight: 600;
+        font-size: 14px;
+        color: #FFFFFF;
+    }
+    .contacts_mobile_contacts img{
+        width: 61px;
+        margin-right: 5px;
+    }
+    .contacts_mobile_price_list{
+        margin-left: 27px;
+        margin-top: 55px;
+    }
+    .contacts_mobile_price_list p{
+        margin-top: 0;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 150%;
+        color: #FFFFFF;
+        margin-bottom: 17px;
+    }
+    .contacts_mobile_price_list img{
+        margin-right: 10px;
+    }
+}

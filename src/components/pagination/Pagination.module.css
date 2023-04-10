@@ -1,0 +1,29 @@
+.pagination{
+    margin-bottom: 68px;
+}
+.pagination ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.pagination li {
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    color: #3F4E65;
+    padding: 4px 14px;
+}
+.pagination a:hover {
+    cursor: pointer;
+}
+.pagination .active {
+    padding: 4px 14px;
+    gap: 10px;
+
+    background: linear-gradient(90deg, rgba(255, 198, 80, 0.3) 0%, rgba(254, 202, 110, 0.3) 97.25%);
+    border-radius: 1000px;
+}
+.pagination svg{
+    padding: 4px 8px;
+
+}
